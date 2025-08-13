@@ -39,6 +39,13 @@
 
 ---
 
+### 🐍 Watch My Contributions Turn into a Snake!
+<p align="center">
+  <img src="https://github.com/zohanaeem1513/zohanaeem1513/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
@@ -50,4 +57,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c0070,100:2c003e&height=120&section=footer"/>
 </p>
+
 
