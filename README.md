@@ -16,7 +16,7 @@
 ### 🌸 About Me
 - 💻 Currently learning **JavaScript & Node.js**
 - 🎯 Goal: **Full Stack MERN Developer**
-- 📫 Email: **your-email@example.com**
+- 📫 Email: **zoha.naeem1513@gmail.com**
 - ✨ Fun fact: *I turn ☕ into code!*
 
 ---
@@ -39,18 +39,14 @@
 
 ---
 
-### 🐍 Watch My Contributions Turn into a Snake!
-<p align="center">
-  <img src="https://github.com/zohanaeem1513/zohanaeem1513/blob/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/zoha-naeem-42420b377/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+ <a href="mailto:zoha.naeem1513@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
 </p>
 
 <!-- Footer Wave -->
